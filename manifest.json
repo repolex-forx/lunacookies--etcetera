@@ -1,0 +1,37 @@
+{
+  "manifest_version": "1.0",
+  "org": "lunacookies",
+  "repo": "etcetera",
+  "versions": [
+    {
+      "commit": "07b3f54999e4f3ff0f027de0144c9349d820ce80",
+      "parsed_at": "2026-11-22T22:47:29.970546+00:00",
+      "tag": "v0.11.0",
+      "filetree": "filetree/07b3f54999e4f3ff0f027de0144c9349d820ce80.nq.gz",
+      "blobs": [
+        "blob/c9164b62416ae9433b5e45d4a57896bea571ae30.nq.gz",
+        "blob/337d12d177b15357e95bdb1c5b71db21e58f8733.nq.gz",
+        "blob/a53929bb3897a8074e44c453ab8363a869b44c34.nq.gz",
+        "blob/932a9d88d24c61af70ed3b00375d2ba2b1cf6d1d.nq.gz",
+        "blob/1b5ec8b78e237b5c3b3d812a7c0a6589d0f7161d.nq.gz",
+        "blob/ad48841546d75939877ee9793d3ae98875433980.nq.gz",
+        "blob/26ec50e9bbe2422b5338921e621f6661aa067b1a.nq.gz",
+        "blob/358119cad4c3aa28cf3a1078d44b67f33f180197.nq.gz",
+        "blob/eaad4bc3e66605c4ea2ccc777c500618e28b0af0.nq.gz",
+        "blob/96ef6c0b944e24fc22f51f18136cd62ffd5b0b8f.nq.gz",
+        "blob/89f05597148748277357bb0ad945df5418b09195.nq.gz",
+        "blob/31aa79387f27e730e33d871925e152e35e428031.nq.gz",
+        "blob/cfe034d568ec12fc6fff831ce3c1fd1dbe55ad9d.nq.gz",
+        "blob/877deec657d7545c25179c00bbab96ee85c4a4ff.nq.gz",
+        "blob/f07ce900578610b9b191f7e24a4658e14c89d349.nq.gz",
+        "blob/80b271d51d2065587671e7888f7cc1ca99ec857c.nq.gz",
+        "blob/87ca0a622e0ec879a0ae236474e78513fffb6e5e.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
